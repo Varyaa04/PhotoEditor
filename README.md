@@ -1,2 +1,2 @@
 # PhotoEditor
-Mobile application for editing photos
+Mobile application on Android for editing photos
